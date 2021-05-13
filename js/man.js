@@ -1,6 +1,6 @@
 
-/* let nome = "José Nilton";
-alert("Bem vindo " + nome); O sinal de + está concatenando a string com a variável*/
+ let nome = "José Nilton";
+alert("Bem vindo " + nome); //O sinal de + está concatenando a string com a variável
 
 var lista = ["maçã", "pêra", "uva"]; /*Criação de uma estrutura do tipo lista*/
 lista.push("laranja"); /*Com esse comando acrescentamos itens na lista*/
